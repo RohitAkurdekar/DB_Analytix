@@ -12,7 +12,7 @@ https://spark.apache.org/downloads.html
 * Go to Download folder and Unzip file
 
       cd ~/Downloads/
-      tar xzvf spark-2.4.0-bin-hadoop2.7.tgz 
+      tar xzvf spark-*****.tgz 
 
 * Make a directory with name 'spark':
 
